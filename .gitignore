@@ -2,3 +2,10 @@ terraform/.terraform
 terraform/.terraform.lock.hcl
 terraform/.terraform.tfstate.lock.info
 terraform/terraform.tfstate*
+
+.ansible/*
+
+ansible/sudo_password_file
+
+.venv/*
+
